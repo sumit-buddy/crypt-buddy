@@ -1,5 +1,2 @@
-os
-time
-sys
 python-cfonts
 termcolor
