@@ -9,13 +9,13 @@
 ```
 git clone https://github.com/sumit-buddy/crypt-buddy
 
+cd crypt-buddy
+
 pip3 install -r requirements.txt
 ```
 
 ## Run
 ```
-cd crypt-buddy
-
 python3 cryptbuddy.py
 ```
 
